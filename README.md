@@ -6,7 +6,7 @@
   />
 </a>
 
-## :muscle: My Mission_
+## :muscle: MY MISSION_
 
 <br />
 <br />
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-## :chart_with_upwards_trend: My Impacts_
+## :chart_with_upwards_trend: MY IMPACTS_
 
 <a href="https://web.programming-hero.com">
 <img  src="https://i.ibb.co.com/wNqJcK10/My-mission-is-to-build-impactful-web-applications-through-clean-code-continuous-learning-and-creat.png"  width="100%"
@@ -32,7 +32,7 @@ alt="My Impacts" />
 <br/>
 <br/>
 
-## :mailbox: Contact with us
+## :mailbox: CONTACT WITH ME_
 
 <br/>
 <br/>
@@ -52,7 +52,7 @@ alt="My Impacts" />
 <br/>
 <br/>
 
-## :zap: My Services_
+## :zap: MY SERVICES_
 
 <p align="center">
   <a href="https://ibb.co.com/RpdHrRx6"><img height="237" src="https://i.ibb.co.com/99SYKQF4/Frontend-dev.png" alt="Frontend Development" /></a>
@@ -63,7 +63,7 @@ alt="My Impacts" />
 <br />
 <br />
 
-## :bulb: My Skills_
+## :bulb: MY SKILLS_
 
 <p align="center">
   <img height="100" src="https://i.ibb.co.com/7x2WFthR/HTML.png" alt="HTML"/>
