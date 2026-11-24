@@ -71,7 +71,7 @@ alt="My Impacts" />
   <img height="100" src="https://i.ibb.co.com/vxMjsTK6/Tailwind.png" alt="Tailwind CSS"/>
   <img height="100" src="https://i.ibb.co.com/G3x3GwYw/Java-Script.png" alt="JavaScript"/>
   <img height="100" src="https://i.ibb.co.com/mCNvvFSj/React.png" alt="React"/>
-  <img height="100" src="NEXT_JS_IMAGE_URL" alt="Next.js"/>
+  <img height="100" src="https://i.ibb.co.com/MxN87YHk/Gemini-Generated-Image-kxeumbkxeumbkxeu.jpg" alt="Next.js"/>
 </p>
 
 <p align="center">
