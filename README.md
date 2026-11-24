@@ -61,3 +61,24 @@ alt="My Impacts" />
 </p>
 
 <br />
+<br />
+
+## :bulb: My Skills_
+
+<p align="center">
+  <img height="100" src="https://i.ibb.co.com/7x2WFthR/HTML.png" alt="HTML"/>
+  <img height="100" src="https://i.ibb.co.com/N6TztScV/CSS.png" alt="CSS"/>
+  <img height="100" src="https://i.ibb.co.com/vxMjsTK6/Tailwind.png" alt="Tailwind CSS"/>
+  <img height="100" src="https://i.ibb.co.com/G3x3GwYw/Java-Script.png" alt="JavaScript"/>
+  <img height="100" src="https://i.ibb.co.com/mCNvvFSj/React.png" alt="React"/>
+  <img height="100" src="NEXT_JS_IMAGE_URL" alt="Next.js"/>
+</p>
+
+<p align="center">
+  <img height="100" src="https://i.ibb.co.com/gFzVsPt7/React-Router-Dom.png" alt="React Router"/>
+  <img height="100" src="https://i.ibb.co.com/yF5rLNd9/Firebase.png" alt="Firebase"/>
+  <img height="100" src="https://i.ibb.co.com/Nb7KzPn/Nodejs.png" alt="Node.js"/>
+  <img height="100" src="https://i.ibb.co.com/wh38z3J0/Express.png" alt="Express.js"/>
+  <img height="100" src="https://i.ibb.co.com/SDsxcyfQ/Mongo-DB.png" alt="MongoDB"/>
+  <img height="100" src="https://i.ibb.co.com/qLCKsvKf/JWT.png" alt="JWT"/>
+</p>
