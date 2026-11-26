@@ -1,6 +1,6 @@
 <a href="https://github.com/for-sifad">
   <img
-    src="https://i.ibb.co.com/VczQTrdS/Blue-and-White-Modern-Programming-Presentation.jpg"
+    src="https://i.ibb.co.com/847fMfhj/banner.jpg"
     width="100%"
     alt="Sifad's Banner"
   />
@@ -11,9 +11,9 @@
 <br />
 <br />
 <br />
-<a href="https://ibb.co.com/TDJxSPNM">
+<a href="https://ibb.co.com/dT4mrdp">
   <img
-    src="https://i.ibb.co.com/nq4NvQKM/Screenshot-2026-11-24-174301.png"
+    src="https://i.ibb.co.com/Fr4HKSY/cover.jpg"
     width="100%"
     alt="My Mission"
   />
