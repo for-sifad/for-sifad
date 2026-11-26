@@ -11,9 +11,9 @@
 <br />
 <br />
 <br />
-<a href="https://ibb.co.com/dT4mrdp">
+<a href="https://ibb.co.com/JRWRdjmT">
   <img
-    src="https://i.ibb.co.com/Fr4HKSY/cover.jpg"
+    src="https://i.ibb.co.com/qMLMnY78/cover.jpg"
     width="100%"
     alt="My Mission"
   />
